@@ -1,0 +1,31 @@
+src/
+  main.tsx
+  App.tsx
+
+  theme/
+    theme.ts
+    gradients.ts
+
+  state/
+    store.ts
+    browserSlice.ts
+    workspaceSlice.ts
+    aiSlice.ts
+
+  browser/
+    BrowserShell.tsx
+    TopBar.tsx
+    Sidebar.tsx
+    BrowserFrame.tsx
+    StatusBar.tsx
+
+  ai/
+    AIPanel.tsx
+    ProviderSelector.tsx
+
+  workspace/
+    WorkspaceDropdown.tsx
+
+  components/
+    Icon.tsx
+    LoadingOverlay.tsx

@@ -1,0 +1,15 @@
+:root {
+  --xb-bg: #0A0A0A;
+  --xb-accent-blue: #A6E3FF;
+  --xb-accent-pink: #FFAFCC;
+  --xb-accent-white: #FFFFFF;
+  --xb-gradient: linear-gradient(135deg, #A6E3FF, #FFAFCC);
+  --xb-font: 'FiraCode Nerd Font', monospace;
+}
+
+body {
+  margin: 0;
+  background: var(--xb-bg);
+  color: var(--xb-accent-white);
+  font-family: var(--xb-font);
+}
