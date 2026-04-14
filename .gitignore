@@ -1,6 +1,9 @@
 node_modules
 .env
 xbt
-package.lock.json
+package-lock.json
 .git
 .github
+.xseries
+.xworkspace
+pnpm-lock.yaml
